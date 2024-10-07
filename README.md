@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm **Mirza Naeem Beg**
-I'm a Computer Science & Engineering undergraduate (3<sup>rd</sup> Year, 1<sup>st</sup> Semester) at Ahsanullah University of Science and Technology (AUST), Bangladesh With a CGPA of 3.00+ out of 4.00, I'm passionate about technology and aspire to become an AI/ML expert.
+I'm a Computer Science & Engineering undergraduate (3<sup>rd</sup> Year, 1<sup>st</sup> Semester) at Ahsanullah University of Science and Technology (AUST), Bangladesh, with a CGPA of 3.00+ out of 4.00, I'm passionate about technology and aspire to become an industry leading AI/ML expert.
 
 ## 👀 I'm interested in
 - Machine Learning and Artificial Intelligence
@@ -7,7 +7,8 @@ I'm a Computer Science & Engineering undergraduate (3<sup>rd</sup> Year, 1<sup>s
 - Mobile App Development
 - Problem Solving
 - Cybersecurity
-- Databases and Computer Networks
+- Databases
+- Computer Networks
 
 ## 🌱 I'm currently learning
 - Machine Learning Specialization Course by Andrew Ng (Coursera)
@@ -22,9 +23,6 @@ I'm a Computer Science & Engineering undergraduate (3<sup>rd</sup> Year, 1<sup>s
 - LinkedIn: [Mirza Naeem Beg](https://www.linkedin.com/in/mirza-naeem-beg/)
 - Facebook: [Naeem Beg](https://www.facebook.com/mrnimblenaeem/)
 - Personal Website: [naeembeg.github.io](https://naeembeg.github.io)
-
-## 😄 Pronouns
-He/Him
 
 ## Education
 - **B.Sc. in Computer Science & Engineering** <br>
