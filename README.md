@@ -1,6 +1,4 @@
-# Mirza Naeem Beg
-
-## 👋 Hi, I'm @naeembeg
+## 👋 Hi, I'm # Mirza Naeem Beg
 I'm a Computer Science & Engineering undergraduate (3rd Year, 1st Semester) at Ahsanullah University of Science and Technology (AUST), Bangladesh With a CGPA of 3.00+ out of 4.00, I'm passionate about technology and aspire to become an AI/ML expert.
 
 ## 👀 I'm interested in
@@ -28,13 +26,10 @@ I'm a Computer Science & Engineering undergraduate (3rd Year, 1st Semester) at A
 ## 😄 Pronouns
 He/Him
 
-## ⚡ Fun fact
-I started my coding journey in the serene city of Mymensingh, where my love for technology first blossomed!
-
 ## Education
-- **B.Sc. in Computer Science & Engineering**
-  Ahsanullah University of Science and Technology
-  Expected Graduation: March 2026
+- **B.Sc. in Computer Science & Engineering** <br>
+  Ahsanullah University of Science and Technology <br>
+  Expected Graduation: March 2026 <br>
   Current CGPA: 3.0+ / 4.0
 
 ## Skills
