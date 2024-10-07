@@ -1,4 +1,3 @@
-```markdown
 # Mirza Naeem Beg
 
 ## 👋 Hi, I'm @naeembeg
@@ -68,4 +67,3 @@ I started my coding journey in the serene city of Mymensingh, where my love for 
 
 ## Address
 4/2 Prembagan, Dakhshinkhan, Uttara, Dhaka-1230, Bangladesh
-```
