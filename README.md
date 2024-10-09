@@ -2,7 +2,7 @@
 I'm a Computer Science & Engineering undergraduate (3<sup>rd</sup> Year, 1<sup>st</sup> Semester) at Ahsanullah University of Science and Technology (AUST), Bangladesh, with a CGPA of 3.00+ out of 4.00, I'm passionate about technology and aspire to become an industry leading AI/ML expert.
 
 ## 👀 I'm interested in
-- Machine Learning and Artificial Intelligence
+- ML and AI
 - Web Development
 - Mobile App Development
 - Problem Solving
