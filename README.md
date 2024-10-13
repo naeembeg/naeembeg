@@ -1,72 +1,109 @@
-# 👋 Hi, I'm Mirza Naeem Beg
-I'm a Computer Science & Engineering undergraduate (3<sup>rd</sup> Year, 1<sup>st</sup> Semester) at Ahsanullah University of Science and Technology (AUST), Bangladesh, with a CGPA of 3.00+ out of 4.00, I'm passionate about technology and aspire to become an industry leading AI/ML expert.
+# Mirza Naeem Beg
+## 🚀 Aspiring AI/ML Expert | 💻 Computer Science & Engineering Undergraduate
 
-# 👀 I'm interested in
-- ML and AI
-- Web Development
-- Mobile App Development
-- Problem Solving
-- Cybersecurity
-- Databases
-- Computer Networks
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-naeem-beg/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrnimblenaeem/)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://naeembeg.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzanaeem278@gmail.com)
 
-# 🌱 I'm currently learning
-- Machine Learning Specialization Course by Andrew Ng (Coursera)
+---
 
-# 💞️ I'm looking to collaborate on
-- Open-source projects related to AI/ML
+### 👨‍🎓 About Me
+
+I'm a passionate 3rd-year Computer Science & Engineering undergraduate at Ahsanullah University of Science and Technology (AUST), Bangladesh. With a strong academic record (CGPA: 3.00+/4.00), I'm driven by a desire to become an industry-leading AI/ML expert.
+
+---
+
+### 🔍 Areas of Interest
+
+- 🤖 Machine Learning & Artificial Intelligence
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🧠 Problem Solving
+- 🔒 Cybersecurity
+- 🗄️ Databases
+- 🖧 Computer Networks
+
+---
+
+### 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+
+### 🎓 Education
+
+**B.Sc. in Computer Science & Engineering**  
+Ahsanullah University of Science and Technology  
+Expected Graduation: March 2026  
+Current CGPA: 3.0+ / 4.0
+
+---
+
+### 🚀 Projects
+
+1. **BechaKena.Com** - E-commerce Platform with Auction Feature
+   - 🛠 HTML, CSS, Bootstrap, PHP, MySQL
+   - 🌟 Integrated auction system, real-time bidding, robust back-end management
+
+2. **TrendWave** - TikTok Clone
+   - 🛠 Flutter, Dart, Firebase
+   - 🌟 Sleek UI/UX design, seamless Firebase integration
+
+3. **Railway Ticket Management System**
+   - 🛠 JavaSwing, MySQL
+   - 🌟 Object-oriented design, intuitive GUI
+
+4. **DoomExploder** - Action Game
+   - 🛠 C/C++, iGraphics
+   - 🌟 Advanced collision logic, immersive sound implementation, stunning graphics
+
+---
+
+### 📚 Current Learning
+
+- 🧠 Machine Learning Specialization Course by Andrew Ng (Coursera)
+- 🌐 Full Stack Open (University of Helsinki) - Planned
+
+---
+
+### 🤝 Open for Collaboration
+
+- Open-source AI/ML projects
 - Innovative web or mobile app development
 - Hackathons and coding competitions
 
-# 📫 How to reach me
-- Email: mirzanaeem278@gmail.com
-- LinkedIn: [Mirza Naeem Beg](https://www.linkedin.com/in/mirza-naeem-beg/)
-- Facebook: [Naeem Beg](https://www.facebook.com/mrnimblenaeem/)
-- 🌐 Personal Website: [naeembeg.github.io](https://naeembeg.github.io)
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 📊 GitHub Stats
 
-# Education
-- **B.Sc. in Computer Science & Engineering** <br>
-  Ahsanullah University of Science and Technology <br>
-  Expected Graduation: March 2026 <br>
-  Current CGPA: 3.0+ / 4.0
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naeembeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-# Skills
-- **Programming Languages**: C, C++, Java, Python
-- **Web Development**: HTML, CSS, Bootstrap, PHP
-- **Mobile Development**: Flutter, Dart
-- **Databases**: MySQL, Microsoft SQL Server
-- **Version Control System**: Git, GitHub
-- **Other Tools**: Firebase, JavaSwing
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeembeg&theme=dark&hide_border=false)
 
-# Projects
-1. **BechaKena.Com (E-commerce Platform with Auction Feature)**
-   - Technologies: HTML, CSS, Bootstrap, PHP, MySQL
-   - Features: Integrated auction, real-time bidding, robust back-end management
-
-2. **TrendWave (TikTok Clone)**
-   - Technologies: Flutter, Dart, Firebase
-   - Contributions: UI/UX design, Firebase integration
-
-3. **Railway Ticket Management System**
-   - Technologies: JavaSwing, MySQL
-   - Focus: Object-oriented principles, GUI design
-
-4. **DoomExploder (Action Game)**
-   - Technologies: C/C++, iGraphics
-   - Contributions: Collision logic, sound implementation, graphics
-
-# Future Learning Plans
-- Full Stack Open (University of Helsinki)
-
-## Address
-4/2 Prembagan, Dakhshinkhan, Uttara, Dhaka-1230, Bangladesh
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naeembeg &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naeembeg &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naeembeg &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naeembeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+📍 **Location:** Dhaka, Bangladesh
+
+💼 **Open to Opportunities:** Internships, Research Collaborations, Part-time Positions
+
+---
+
+*"Embracing the journey of continuous learning and innovation in the world of technology."*
+
