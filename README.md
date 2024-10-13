@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 About Me
 
-I'm a passionate 3rd-year Computer Science & Engineering undergraduate at Ahsanullah University of Science and Technology (AUST), Bangladesh. With a strong academic record (CGPA: 3.00+/4.00), I'm driven by a desire to become an industry-leading AI/ML expert.
+I'm a passionate 3<sup>rd</sup> year Computer Science & Engineering undergraduate at Ahsanullah University of Science and Technology (AUST), Bangladesh. With a strong academic record (CGPA: 3.00+/4.00), I'm driven by a desire to become an industry-leading AI/ML expert.
 
 ---
 
