@@ -1,4 +1,4 @@
-# MIRZA NAEEM BEG
+<img src="https://github.com/pro.png" width="30" style="border-radius: 50%;"> Mirza Naeem Beg
 ## 🚀 CS Engineering Student | 💡 AI/ML Enthusiast | 🔮 Future Tech Asset
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-naeem-beg/)
