@@ -1,6 +1,9 @@
 # Mirza Naeem Beg
 
-## 🚀 CS Engineering Student | 💡 AI/ML Enthusiast | 🔮 Future Tech Asset
+## 🌐 CSE Undergrad | AI/ML Enthusiast
+## 🚀 Exploring AI, Web/App Dev, Cybersecurity
+## 📍 Dhaka | Driven by tech & curiosity
+## 🎓 3rd Year, AUST | CGPA 3.0+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-naeem-beg/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrnimblenaeem/)
@@ -11,7 +14,7 @@
 
 ### 👨‍🎓 About Me
 
-I'm a passionate 3<sup>rd</sup> year Computer Science & Engineering undergraduate at Ahsanullah University of Science and Technology (AUST), Bangladesh. With a strong academic record (CGPA: 3.00+/4.00), I'm driven by a desire to become an industry-leading AI/ML expert.
+I'm a passionate 3<sup>rd</sup> year Computer Science & Engineering undergraduate at Ahsanullah University of Science and Technology (AUST), Bangladesh. With the academic record (CGPA: 3.00+/4.00), I'm driven by a desire to become an industry-leading AI/ML expert.
 
 ---
 
