@@ -22,7 +22,7 @@ I'm a passionate 3<sup>rd</sup> year Computer Science & Engineering undergraduat
 - 📱 Mobile App Development
 - 🧠 Problem Solving
 - 🔒 Cybersecurity
-- 🗄️ Databases
+- 🗄️ DevOps
 - 🖧 Computer Networks
 
 ---
