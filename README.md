@@ -26,7 +26,7 @@
 
 ---
 
-## 🔬 Research & Thesis
+## 🔬 Thesis Work
 
 ### 🛡️ BanglaGuard: Undergraduate Thesis *(Defended June 2026)*
 > A **Multimodal Deep Learning Framework** for Audio-Visual Detection of Inappropriate Content in Bangla Children's Cartoon Videos
@@ -38,27 +38,20 @@
 - 🎙️ **OpenAI Whisper** for Bangla speech processing
 - 📈 **Achieved 87.02% accuracy** on a purpose-built 871-clip dataset
 
-### 🍮 Digital Preservation of Culinary Heritage
-> Course Paper (CSE4138): Classifying Bangladeshi desserts and generating traditional recipes
-
-- 🖼️ Classifies **4,118 dessert images** across **27 categories** (EfficientNet-B0 vs ResNet-18)
-- 📝 Generates traditional recipes using **T5** and **GPT-2**
-- 📂 Multi-modal dataset [publicly available on Mendeley](https://data.mendeley.com/datasets/j2pnx2mwwk/1)
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://my-github-stats-blush.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats-naeem-beg.vercel.app?user=mirzanaeembeg&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-naeem-beg.vercel.app?user=mirzanaeembeg&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+  <img alt="GitHub Stats" src="https://my-github-stats-blush.vercel.app/api?username=mirzanaeembeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://my-github-stats-blush.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+  <img alt="Top Languages" src="https://my-github-stats-blush.vercel.app/api/top-langs/?username=mirzanaeembeg&theme=tokyonight&hide_border=false&layout=compact" />
 </p>
 
 ---
