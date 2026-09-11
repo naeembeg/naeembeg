@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍🎓 Preface
 
 - 🎓 **B.Sc. in Computer Science & Engineering** from [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/), CGPA **3.13 / 4.00**
 - 🔬 **Research Focus:** NLP, Computer Vision, LLMs, Deep Learning, and low-resource language processing (Bangla)
